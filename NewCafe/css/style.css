@@ -1,0 +1,38 @@
+@charset "UTF-8";
+html{
+    font-size: 100%;
+}
+
+body{
+    font-family: '游ゴシック　Medium';
+    line-height: 1.7;
+    color: #432;
+}
+
+a{
+    text-decoration: none;
+}
+
+ing{
+    max-width: 100;
+}
+
+.link-select{
+    display: flex;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    margin-top: 34px;
+    list-style: none;
+}
+
+.link-select li{
+    margin-left: 36px;
+}
+
+.link-select a{
+    color: #432;
+}
+
+.link-select a:hover{
+    color: #0bd;
+}
